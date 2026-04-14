@@ -1,8 +1,8 @@
 # Snapssystems
 # Freelance Creative Bundle
 
-A complete Notion workspace + n8n automation 
-for creative freelancers.
+1st Project as a 17yo : A complete Notion workspace + n8n automation 
+
 
 ## What it does
 - Manage clients, projects and invoices in Notion
